@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi I'm Arman Arfan 💫
+
+#### I’m a Software Engineering student from Universiti Putra Malaysia (UPM) who loves building AI-powered products that solve real problems. I’ve led and shipped projects across mobile, data, and cloud—often in fast-paced hackathons and client environments.
 
 <!--
 **EthanGong-dev/EthanGong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
