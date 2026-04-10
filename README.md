@@ -8,8 +8,12 @@
 ---
 
 # 💻 Tech Stack
+
 ## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+## Databases & Auth
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
  
 <!--
 **EthanGong-dev/EthanGong-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
